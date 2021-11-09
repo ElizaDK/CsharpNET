@@ -1,0 +1,16 @@
+D:\CURSO PROGRAMACAO\portifolio\Personal PORTFOLIO\workspace\C# VISUAL STUDIO\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.exe
+D:\CURSO PROGRAMACAO\portifolio\Personal PORTFOLIO\workspace\C# VISUAL STUDIO\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.deps.json
+D:\CURSO PROGRAMACAO\portifolio\Personal PORTFOLIO\workspace\C# VISUAL STUDIO\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.runtimeconfig.json
+D:\CURSO PROGRAMACAO\portifolio\Personal PORTFOLIO\workspace\C# VISUAL STUDIO\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.runtimeconfig.dev.json
+D:\CURSO PROGRAMACAO\portifolio\Personal PORTFOLIO\workspace\C# VISUAL STUDIO\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.dll
+D:\CURSO PROGRAMACAO\portifolio\Personal PORTFOLIO\workspace\C# VISUAL STUDIO\Primeiro\Primeiro\bin\Debug\net5.0\ref\Primeiro.dll
+D:\CURSO PROGRAMACAO\portifolio\Personal PORTFOLIO\workspace\C# VISUAL STUDIO\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.pdb
+D:\CURSO PROGRAMACAO\portifolio\Personal PORTFOLIO\workspace\C# VISUAL STUDIO\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.csproj.AssemblyReference.cache
+D:\CURSO PROGRAMACAO\portifolio\Personal PORTFOLIO\workspace\C# VISUAL STUDIO\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO PROGRAMACAO\portifolio\Personal PORTFOLIO\workspace\C# VISUAL STUDIO\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.AssemblyInfoInputs.cache
+D:\CURSO PROGRAMACAO\portifolio\Personal PORTFOLIO\workspace\C# VISUAL STUDIO\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.AssemblyInfo.cs
+D:\CURSO PROGRAMACAO\portifolio\Personal PORTFOLIO\workspace\C# VISUAL STUDIO\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.csproj.CoreCompileInputs.cache
+D:\CURSO PROGRAMACAO\portifolio\Personal PORTFOLIO\workspace\C# VISUAL STUDIO\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.dll
+D:\CURSO PROGRAMACAO\portifolio\Personal PORTFOLIO\workspace\C# VISUAL STUDIO\Primeiro\Primeiro\obj\Debug\net5.0\ref\Primeiro.dll
+D:\CURSO PROGRAMACAO\portifolio\Personal PORTFOLIO\workspace\C# VISUAL STUDIO\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.pdb
+D:\CURSO PROGRAMACAO\portifolio\Personal PORTFOLIO\workspace\C# VISUAL STUDIO\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.genruntimeconfig.cache
